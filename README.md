@@ -13,3 +13,5 @@ Here, I've implemented:
 - [NanoGPT](https://github.com/karpathy/nanogpt): A minimal GPT model built using PyTorch modules, focusing exclusively on the pretraining stage.
   - [Attention is All You Need Transformer](https://arxiv.org/abs/1706.03762): A Transformer model implementation that emphasizes self-attention for sequence modeling.
   - Exploring the Transformer model and its components.
+- [miniBPE] (To be implemented) Tokenizer: A minimal Byte Pair Encoding tokenizer.
+  - (To be implemented fine-tuning)
